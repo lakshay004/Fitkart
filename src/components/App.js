@@ -42,7 +42,7 @@ function App() {
 const TotalProduct = [
   {
     id:1,
-    name:'Ultimate nutrition Whey Protein',
+    name:'Ultimate Nutrition Whey Protein',
     quantity: '1kg',
     price : 2000
   },
