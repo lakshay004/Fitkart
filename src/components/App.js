@@ -48,7 +48,7 @@ const TotalProduct = [
   },
   {
     id:2,
-    name:'Joe weider Whey Protein',
+    name:'Joe Weider Whey Protein',
     quantity: '1kg',
     price : 2100
   },
