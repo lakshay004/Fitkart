@@ -1,0 +1,26 @@
+.Products-Container {
+    background-color: #23bdbd75;
+    width: 25%;
+    padding: 10px;
+    margin: 20px;
+    margin-right: 5px;
+    border-radius: 5%;
+}
+.Products-details{
+    margin: 10px;
+}
+.Product-name{
+    font-size: 36px;
+}
+.btn{
+    border: none;
+    border-radius: 8%;
+}
+.btn--primary{
+    background-color: rgba(63, 211, 252, 0.707);
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn--info{
+    background-color: rgba(255, 255, 255, 0.357);
+}

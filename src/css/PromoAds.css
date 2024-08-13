@@ -1,0 +1,12 @@
+.PromoAds-container{
+    position: relative;
+    display: inline-block;
+    height: 45vh;
+    outline: 1px solid black;
+}
+.promo-images{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    opacity: 0.5;
+}

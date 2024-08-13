@@ -1,0 +1,11 @@
+.Products-grid{
+    display: flex;
+    outline: 1px solid green;
+    flex-flow: row wrap;
+    align-content: space-between;
+    justify-content:space-around;
+    padding: 20px;
+    margin: 0 auto;
+    padding-top: 30px;
+    background-color: #23bdbd1b;
+}

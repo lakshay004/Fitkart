@@ -1,0 +1,14 @@
+@import-normalize;
+@import 'NavBar.css';
+@import 'Products.css';
+@import 'PromoAds.css';
+@import 'Productlist.css';
+
+html {
+  font-size: 25px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
